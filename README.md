@@ -34,4 +34,4 @@ O objetivo é praticar conceitos de programação back-end e manipulação de ba
 ## 💻 Como rodar o projeto
 1. Clone o repositório:
 ```bash
-git clone https://github.com/jose-eduardo-dev/jose-eduardo-dev.git
+git clone https://github.com/jose-eduardo-dev/API-cadastro.git
